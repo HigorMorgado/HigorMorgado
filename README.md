@@ -1,7 +1,7 @@
 ### Oi, meu nome é Higor Morgado 👋
 Estou em transição de Carreira, para a área de Data Science
 
-Atualmente estou focado em:
+🖥️ Atualmente estou focado em:
 
 <div display="inline">
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
